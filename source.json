@@ -1,0 +1,17 @@
+{
+  "updated_on": "2023-03-08T21:46:13.968Z",
+  "refs": [
+    {
+      "id": "IAV-PR8-MtSinai",
+      "description": "PR8 WT (Mt. Sinai)",
+      "source": "Mt. Sinai",
+      "location": "https://raw.githubusercontent.com/aixnr/linken-contrib/main/IAV/H1N1-PR8-MtSinai.fasta"
+    },
+    {
+      "id": "SARSCOV2-WH1",
+      "description": "SARS-CoV-2 parental Wuhan-Hu-1 isolate",
+      "source": "NCBI nuccore NC_045512.2",
+      "location": "https://raw.githubusercontent.com/aixnr/linken-contrib/main/SARSCOV2/NC_045512.2-Wuhan-Hu-1.fasta"
+    }
+  ]
+}
